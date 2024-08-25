@@ -1,0 +1,20 @@
+Do pythonu je nutne doinstalovat :
+requests  ( pip install requests )
+colorama  ( pip install colorama )
+
+Novinky:
+
+v0.0.3 (24.08.2024)
+- pridano :kodiprop pro kodi
+- pridano :url
+- pridano automaticka kontrola streamu (nefunkcni nejsou pridany do playlistu)
+  OK = funkcni (v zelene barve)
+  OFF = nefunkcni nebo chyba (v cervene barve)
+
+
+v0.0.2 (18.08.2024)
+- pridano automaticke cislovani programu
+- pridany moje ikony na Githubu
+
+v0.0.1 (17.08.2024)
+- prvni sestaveni a doladeni chyb
